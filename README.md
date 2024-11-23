@@ -30,7 +30,7 @@ The project uses the GlobalTemperatures dataset which includes:
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/weather-prediction-ml.git
+git clone https://github.com/Nizar04/Weather-Predicition-Model.git
 cd weather-prediction-ml
 ```
 
